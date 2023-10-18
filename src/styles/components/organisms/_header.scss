@@ -1,0 +1,15 @@
+@import "../../constants";
+
+.header {
+    background: yellow;
+
+    .menu {
+        a {
+            padding: 1rem;
+            font-size: 24px;
+            font-weight: 500;
+            color: $ljubicasta-boja;
+            text-decoration: none;
+        }
+    }
+}

@@ -1,0 +1,14 @@
+@import "fonts/fonts";
+@import "constants";
+@import "components/normalize";
+@import "./components/atoms";
+@import "./components/organisms";
+
+body {
+    background: #999;
+    font-family: Raleway, sans-serif;
+}
+
+h1 {
+    font-family: "Rough Battle", sans-serif;
+}
